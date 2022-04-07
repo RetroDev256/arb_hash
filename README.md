@@ -7,4 +7,4 @@ Usage:
 - The output structure must have at least the same value for N
 - The input and output must point to seperate, non overlapping places in memory
 - The value for N in both the input and output structures must be at least 3
-
+- The number of rounds supplied to the hash function must be at least 1
